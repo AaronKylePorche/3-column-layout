@@ -149,11 +149,12 @@ p {
     .card-container {
         flex-direction: column;
         height: auto;
+        Width: 100vw;
 
     }
 
     .card1, .card2, .card3  {
-        min-height: 40vh;
+        min-height: 65vh;
     }
         
 
