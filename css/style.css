@@ -1,5 +1,3 @@
-root: 
-
 * {
     margin: 0;
     padding:0;
@@ -33,10 +31,20 @@ root:
 .card {
     padding: 3rem;
     max-width: 375px;
-    min-height: 350px;
+    
+}
+
+.sedans {
+    
+    background-color: var(--Bright-orange);
+
 }
 
 
+
+.suvs {
+    background-color: var(--Dark-cyan);
+}
 .luxury {
     background-color: var(--Very-dark-cyan);
 
@@ -45,15 +53,28 @@ root:
 
 .luxury-header {
     color: var(--very-light-grey);
+    
+}
+
+.header {
     font-family: var(--heading-font);
     text-transform: uppercase;
     font-size: 2.3rem;
     margin: 2rem 0;
+    color: var(--very-light-grey);
 }
 
-.card-text, .btn {
+.card-text  {
 
     color: var(--transparent-white);
+    font-family: var(--paragrah-font);
+    font-size: 15px;
+    margin: 2rem 0;
+    line-height: 1.5;
+}
+
+.btn {
+
     font-family: var(--paragrah-font);
     font-size: 15px;
     margin: 2rem 0;
@@ -65,12 +86,22 @@ root:
     
 }
 
+.sedans-btn {
+ 
+    color: var(--Bright-orange);
+}
+
+.suvs-btn {
+    color: var(--Dark-cyan);
+}
+
+
 .btn {
     border-radius: 25px;
     padding: .5rem 1.5rem;
     border: none;
     font-size: 15px;
-    margin: 2rem 0;
+    margin: 4rem 0 0 0;
 
 
     
