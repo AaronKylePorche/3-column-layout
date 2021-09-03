@@ -109,11 +109,13 @@
     
 }
 
-.btn:hover {
+.btn:hover,
+.btn:focus {
     background-color:rgba(0, 0, 0, 0);
     color: var(--very-light-grey);
     border: var(--very-light-grey) 2px solid;
     padding: 6px 22px;
+    cursor: pointer;
     
     
 }
