@@ -4,5 +4,6 @@
 
 View online  - https://aaronkyleporche.github.io/3-column-layout/ 
 
-![preview](https://user-images.githubusercontent.com/19236634/131957943-dc4b1184-92ed-4aae-b2d0-6f99fe91f5fd.jpg)
+![preview](https://user-images.githubusercontent.com/19236634/131958557-0f1b2b9d-c9db-43b9-898f-75086e3c382d.jpg)
+
 
