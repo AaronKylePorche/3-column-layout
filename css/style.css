@@ -21,16 +21,22 @@
 }
 
 .body   {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    
+    
+     display: flex;
+     justify-content: center;
+     align-items: center;   
+    
+    
 }
 
 .section-container {
     margin: 1rem;
     border-radius: 8px;
     overflow: hidden;
+    
+    
+    
 }
 
 .card {
